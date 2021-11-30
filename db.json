@@ -1,0 +1,43 @@
+{
+  "cimek": [
+    {
+      "id": 1,
+      "keresztNev": "Szilveszter",
+      "vezetekNev": "Szerencsétlen",
+      "iranyitoszam": 4631,
+      "varos": "Gyöngyös",
+      "ut": "Gyenge",
+      "hazszam": 1
+    },
+    {
+      "id": 2,
+      "keresztNev": "Szilvia",
+      "vezetekNev": "Szemét",
+      "iranyitoszam": 4600,
+      "varos": "Eger",
+      "ut": "Erős",
+      "hazszam": 2
+    },
+    {
+      "id": 3,
+      "keresztNev": "Péter",
+      "vezetekNev": "Piszkos",
+      "iranyitoszam": 4500,
+      "varos": "Kaposvár",
+      "ut": "Kopasz",
+      "hazszam": 3
+    },
+    {
+      "id": 4,
+      "keresztNev": "Sándor",
+      "vezetekNev": "Sunyi",
+      "iranyitoszam": 4531,
+      "varos": "Lillafüred",
+      "ut": "Lehetetlen",
+      "hazszam": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
